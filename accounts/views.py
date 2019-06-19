@@ -40,7 +40,7 @@ def login(request):
         login_form = UserLoginForm()
     return render(request, "login.html", {"login_form": login_form})
 
-def registration(request):
+def register(request):
     """Render the registration page"""
     if request.user.is_authenticated:
         return redirect(reverse('index'))
