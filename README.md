@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/jonw83/e-commerce-jw.svg?branch=master)](https://travis-ci.org/jonw83/e-commerce-jw)
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
